@@ -1,24 +1,24 @@
 ---
 layout: default
-title: TimeKit - Professional Time Tracking for Freelancers
+title: Workbill - Time & Invoice for Freelancers
 ---
 
 <div class="hero animate-fade-in-up">
-  <h1 class="text-gradient">TimeKit<br>Track Time. Build Your Kit.</h1>
-  <p class="mb-xl">TimeKit brings professional time tracking to your iPhone with one-tap timers, automatic earnings calculation, and beautiful PDF reports for client billing. Start free with 3 categories, then upgrade to Premium for unlimited tracking — all while your data stays securely on your device.</p>
-  <p class="mb-2xl" style="color: var(--color-text-secondary); max-width: 680px; margin-left: auto; margin-right: auto;">Monthly and yearly Premium subscriptions unlock unlimited categories, advanced analytics, and professional invoice reports for serious freelancers and consultants.</p>
+  <h1 class="text-gradient">Workbill<br>Track Time. Send Invoices. Get Paid.</h1>
+  <p class="mb-xl">Workbill is the all-in-one billing app for freelancers and contractors. Track billable hours with one tap, create professional invoices and quotes in seconds, and manage client payments — all while your data stays securely on your device.</p>
+  <p class="mb-2xl" style="color: var(--color-text-secondary); max-width: 680px; margin-left: auto; margin-right: auto;">Monthly and yearly Premium subscriptions unlock unlimited projects, advanced analytics, and professional invoicing for serious freelancers and small business owners.</p>
 
   <div style="display: flex; justify-content: center; margin-bottom: var(--spacing-4xl);">
     <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary btn-large">
       <i class="fab fa-apple"></i>
-      Get TimeKit on the App Store
+      Get Workbill on the App Store
     </a>
   </div>
 </div>
 
 <div class="screenshots">
   <div class="screenshot">
-    <img src="{{ '/assets/screenshots/timer.png' | relative_url }}" alt="TimeKit Timer - One-tap time tracking">
+    <img src="{{ '/assets/screenshots/timer.png' | relative_url }}" alt="Workbill Timer - One-tap time tracking">
   </div>
   <div class="screenshot">
     <img src="{{ '/assets/screenshots/categories.png' | relative_url }}" alt="Track multiple projects and clients">
@@ -39,8 +39,8 @@ title: TimeKit - Professional Time Tracking for Freelancers
 
 <section class="features">
   <div class="text-center mb-2xl">
-    <h2>Professional Time Tracking for Freelancers</h2>
-    <p>One-tap timers, billable hours tracking, and beautiful reports for client invoicing.</p>
+    <h2>Professional Time Tracking & Invoicing for Freelancers</h2>
+    <p>One-tap timers, billable hours tracking, quotes, invoices, and payments — all in one place.</p>
   </div>
 
   <div class="grid grid-3">
@@ -64,8 +64,8 @@ title: TimeKit - Professional Time Tracking for Freelancers
       <div class="feature-icon">
         <i class="fas fa-file-invoice-dollar"></i>
       </div>
-      <h3>PDF Invoice Reports</h3>
-      <p>Generate professional PDF reports ready to send to clients. Premium feature.</p>
+      <h3>Invoices & Quotes</h3>
+      <p>Create and send professional invoices and quotes directly to clients in seconds.</p>
     </div>
 
     <div class="card feature-card animate-fade-in-up">
@@ -97,7 +97,7 @@ title: TimeKit - Professional Time Tracking for Freelancers
 <section class="features">
   <div class="text-center mb-2xl">
     <h2>Affordable Premium Plans</h2>
-    <p>70% cheaper than Toggl. Professional features without enterprise pricing.</p>
+    <p>Professional billing features without enterprise pricing.</p>
   </div>
 
   <div class="grid grid-2">
@@ -123,7 +123,7 @@ title: TimeKit - Professional Time Tracking for Freelancers
 <section class="features" style="background: linear-gradient(135deg, #2DBAA6, #1A9885); color: white; padding: var(--spacing-4xl) var(--spacing-xl); border-radius: var(--radius-xl); margin-top: var(--spacing-4xl);">
   <div class="text-center">
     <h2 style="color: white;">Free Tier - No Ads, Ever</h2>
-    <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; max-width: 600px; margin: 0 auto;">TimeKit is completely free to use with 3 categories. No advertisements, no tracking. Upgrade when you're ready for unlimited categories and professional features.</p>
+    <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.1rem; max-width: 600px; margin: 0 auto;">Workbill is completely free to use with 3 categories. No advertisements, no tracking. Upgrade when you're ready for unlimited categories and professional features.</p>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--spacing-xl); margin-top: var(--spacing-2xl);">
       <div style="text-align: center;">
         <i class="fas fa-infinity" style="font-size: 2.5rem; margin-bottom: var(--spacing-md);"></i>
@@ -146,13 +146,13 @@ title: TimeKit - Professional Time Tracking for Freelancers
 
 <section class="features">
   <div class="text-center mb-2xl">
-    <h2>Why Freelancers Love TimeKit</h2>
+    <h2>Why Freelancers Love Workbill</h2>
   </div>
 
   <div class="grid grid-2">
     <div class="card animate-fade-in-up">
       <h3>💰 70% Cheaper Than Competitors</h3>
-      <p>Toggl charges $9/month. Timely costs $21/month. TimeKit is just $2.99/month with the same professional features.</p>
+      <p>Toggl charges $9/month. Timely costs $21/month. Workbill is just $2.99/month with the same professional features.</p>
     </div>
 
     <div class="card animate-fade-in-up">
@@ -175,7 +175,7 @@ title: TimeKit - Professional Time Tracking for Freelancers
 <section class="features">
   <div class="text-center mb-2xl">
     <h2>Premium Features</h2>
-    <p>Unlock the full power of TimeKit with a Premium subscription.</p>
+    <p>Unlock the full power of Workbill with a Premium subscription.</p>
   </div>
 
   <div class="grid grid-3">
@@ -220,7 +220,7 @@ title: TimeKit - Professional Time Tracking for Freelancers
 
 <div style="text-align: center; padding: var(--spacing-4xl) var(--spacing-xl); background: linear-gradient(135deg, #2DBAA6, #1A9885); border-radius: var(--radius-xl); color: white; margin-top: var(--spacing-4xl);">
   <h2 style="color: white; font-size: 2.5rem; margin-bottom: var(--spacing-lg);">Start Tracking Your Billable Hours</h2>
-  <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.2rem; max-width: 600px; margin: 0 auto var(--spacing-2xl);">Download TimeKit and start tracking time professionally. Free forever with 3 categories, or upgrade for unlimited tracking.</p>
+  <p style="color: rgba(255, 255, 255, 0.9); font-size: 1.2rem; max-width: 600px; margin: 0 auto var(--spacing-2xl);">Download Workbill and start tracking time professionally. Free forever with 3 categories, or upgrade for unlimited tracking.</p>
   <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary btn-large" style="background: white; color: #2DBAA6;">
     <i class="fab fa-apple"></i>
     Download on the App Store

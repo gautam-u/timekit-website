@@ -1,19 +1,19 @@
 #page title
-page_title: TimeKit - Professional Time Tracking for Freelancers
-title: TimeKit
+page_title: Workbill - Time & Invoice for Freelancers
+title: Workbill
 
 # App Info
 app_icon: /assets/app-icon.png
-app_name: TimeKit
+app_name: Workbill
 app_price: Free with Premium options
-app_description: TimeKit delivers professional time tracking with one-tap timers, automatic earnings calculation, and beautiful PDF reports for client billing — all with privacy-first architecture and affordable monthly or yearly premium subscriptions.
+app_description: Workbill is the all-in-one time tracking and invoicing app built for freelancers and contractors. Track billable hours, send professional invoices, and manage client payments — all with privacy-first architecture and affordable monthly or yearly premium subscriptions.
 
 # Store Links
-appstore_link: https://apps.apple.com/us/app/timekit/idXXXXXXXXXX
+appstore_link: https://apps.apple.com/us/app/workbill-time-invoice/id6755194362
 playstore_link:
 
 # Information About Yourself
-your_name: TimeKit Team
+your_name: Workbill Team
 your_link: https://github.com/gautam-u
 your_city:
 email_address: support@timekitapp.com
@@ -26,14 +26,14 @@ youtube_username:
 # Feature List
 features:
   - title: One-Tap Time Tracking
-    description: Start tracking time instantly with a single tap. No complex setup, no friction.
+    description: Start tracking billable hours instantly with a single tap. No complex setup, no friction.
     fontawesome_icon_name: stopwatch
-  - title: Earnings Calculator
-    description: See your billable earnings in real-time as you track time. Know your worth instantly.
-    fontawesome_icon_name: dollar-sign
-  - title: PDF Invoice Reports
-    description: Generate professional PDF reports ready to send to clients. Premium feature.
+  - title: Invoicing & Quotes
+    description: Create professional invoices and quotes in seconds. Send to clients directly from your iPhone.
     fontawesome_icon_name: file-invoice-dollar
+  - title: Earnings Calculator
+    description: See your billable earnings in real-time as you track time. Know exactly what you've earned.
+    fontawesome_icon_name: dollar-sign
   - title: Advanced Analytics
     description: Understand productivity patterns with daily, weekly, and monthly insights.
     fontawesome_icon_name: chart-line

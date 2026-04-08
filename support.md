@@ -7,8 +7,8 @@ permalink: /support/
 
 <div class="content" style="max-width: 800px; margin: 0 auto;">
   <div class="text-center mb-2xl">
-    <h1>TimeKit Support</h1>
-    <p>Get help with TimeKit and find answers to common questions.</p>
+    <h1>Workbill Support</h1>
+    <p>Get help with Workbill and find answers to common questions.</p>
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
@@ -47,17 +47,17 @@ permalink: /support/
 
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">How do I upgrade to Premium?</summary>
-      <p style="padding: var(--spacing-md);">Open TimeKit → Settings → Upgrade to Premium. Choose monthly ($2.99) or yearly ($24.99) and complete purchase through Apple's App Store.</p>
+      <p style="padding: var(--spacing-md);">Open Workbill → Settings → Upgrade to Premium. Choose monthly ($2.99) or yearly ($24.99) and complete purchase through Apple's App Store.</p>
     </details>
 
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">Can I cancel my subscription?</summary>
-      <p style="padding: var(--spacing-md);">Yes, anytime! Go to iOS Settings → [Your Name] → Subscriptions → TimeKit → Cancel Subscription. Your premium access continues until the end of your billing period.</p>
+      <p style="padding: var(--spacing-md);">Yes, anytime! Go to iOS Settings → [Your Name] → Subscriptions → Workbill → Cancel Subscription. Your premium access continues until the end of your billing period.</p>
     </details>
 
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">Can I share Premium with family?</summary>
-      <p style="padding: var(--spacing-md);">Yes! TimeKit supports Apple Family Sharing. Your Premium subscription can be shared with up to 5 family members. Each person has their own private time tracking data.</p>
+      <p style="padding: var(--spacing-md);">Yes! Workbill supports Apple Family Sharing. Your Premium subscription can be shared with up to 5 family members. Each person has their own private time tracking data.</p>
     </details>
 
     <h3 style="margin-top: var(--spacing-xl);">Reports & Exports</h3>
@@ -79,47 +79,47 @@ permalink: /support/
 
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">Do you show ads?</summary>
-      <p style="padding: var(--spacing-md);">No! TimeKit is completely ad-free for both free and premium users. We respect your focus and privacy.</p>
+      <p style="padding: var(--spacing-md);">No! Workbill is completely ad-free for both free and premium users. We respect your focus and privacy.</p>
     </details>
 
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">How do I delete my data?</summary>
-      <p style="padding: var(--spacing-md);">To delete all data: Simply delete the TimeKit app from your device. If you enabled iCloud sync, also go to Settings → [Your Name] → iCloud → Manage Storage → TimeKit → Delete Data.</p>
+      <p style="padding: var(--spacing-md);">To delete all data: Simply delete the Workbill app from your device. If you enabled iCloud sync, also go to Settings → [Your Name] → iCloud → Manage Storage → Workbill → Delete Data.</p>
     </details>
 
     <h3 style="margin-top: var(--spacing-xl);">Troubleshooting</h3>
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">Timer stopped tracking in the background</summary>
-      <p style="padding: var(--spacing-md);">iOS may limit background activity to save battery. To ensure reliable tracking: 1) Keep TimeKit in the foreground when possible, 2) Enable notifications for timer alerts, 3) Check iOS Settings → Battery → Low Power Mode is OFF.</p>
+      <p style="padding: var(--spacing-md);">iOS may limit background activity to save battery. To ensure reliable tracking: 1) Keep Workbill in the foreground when possible, 2) Enable notifications for timer alerts, 3) Check iOS Settings → Battery → Low Power Mode is OFF.</p>
     </details>
 
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">My purchase didn't restore</summary>
-      <p style="padding: var(--spacing-md);">Make sure you're signed into the same Apple ID used to purchase Premium. Try: Open TimeKit → Settings → Restore Purchases. If issues persist, email us at support@timekitapp.com.</p>
+      <p style="padding: var(--spacing-md);">Make sure you're signed into the same Apple ID used to purchase Premium. Try: Open Workbill → Settings → Restore Purchases. If issues persist, email us at support@timekitapp.com.</p>
     </details>
 
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">iCloud sync isn't working</summary>
-      <p style="padding: var(--spacing-md);">Check: 1) You have Premium subscription active, 2) iOS Settings → [Your Name] → iCloud → iCloud Drive is ON, 3) TimeKit has iCloud permission, 4) Both devices are signed into the same Apple ID.</p>
+      <p style="padding: var(--spacing-md);">Check: 1) You have Premium subscription active, 2) iOS Settings → [Your Name] → iCloud → iCloud Drive is ON, 3) Workbill has iCloud permission, 4) Both devices are signed into the same Apple ID.</p>
     </details>
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>🐛 Report a Bug</h2>
-    <p>Found a bug? Help us improve TimeKit by reporting it!</p>
+    <p>Found a bug? Help us improve Workbill by reporting it!</p>
     <p style="margin-top: var(--spacing-lg);">Email us at <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a> with:</p>
     <ul style="margin-left: var(--spacing-lg);">
       <li>Description of the issue</li>
       <li>Steps to reproduce the bug</li>
       <li>iPhone model and iOS version</li>
-      <li>TimeKit version (found in Settings → About)</li>
+      <li>Workbill version (found in Settings → About)</li>
       <li>Screenshots (if applicable)</li>
     </ul>
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>💡 Feature Requests</h2>
-    <p>Have an idea for TimeKit? We'd love to hear it!</p>
+    <p>Have an idea for Workbill? We'd love to hear it!</p>
     <p style="margin-top: var(--spacing-lg);">Send feature requests to <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a></p>
   </div>
 
@@ -128,7 +128,7 @@ permalink: /support/
     <ul style="margin-left: var(--spacing-lg);">
       <li><a href="{{ '/privacy-policy' | relative_url }}" style="color: #2DBAA6;">Privacy Policy</a></li>
       <li><a href="{{ '/terms' | relative_url }}" style="color: #2DBAA6;">Terms of Service</a></li>
-      <li><a href="{{ '/' | relative_url }}" style="color: #2DBAA6;">TimeKit Homepage</a></li>
+      <li><a href="{{ '/' | relative_url }}" style="color: #2DBAA6;">Workbill Homepage</a></li>
     </ul>
   </div>
 

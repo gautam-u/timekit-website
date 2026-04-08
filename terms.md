@@ -8,18 +8,18 @@ permalink: /terms/
 <div class="content" style="max-width: 800px; margin: 0 auto;">
   <div class="text-center mb-2xl">
     <h1>Terms of Service</h1>
-    <p>Please read these terms carefully before using TimeKit.</p>
-    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: November 14, 2025</p>
+    <p>Please read these terms carefully before using Workbill.</p>
+    <p style="font-size: 0.9rem; color: var(--color-text-tertiary); margin-bottom: 0;">Last updated: April 7, 2026</p>
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>1. Agreement to Terms</h2>
-    <p>By downloading, installing, or using TimeKit ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.</p>
+    <p>By downloading, installing, or using Workbill ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.</p>
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>2. License Grant</h2>
-    <p>TimeKit grants you a limited, non-exclusive, non-transferable, revocable license to use the App for personal or professional time tracking purposes, subject to these Terms.</p>
+    <p>Workbill grants you a limited, non-exclusive, non-transferable, revocable license to use the App for personal or professional time tracking purposes, subject to these Terms.</p>
 
     <h3 style="margin-top: var(--spacing-lg);">You May:</h3>
     <ul style="margin-left: var(--spacing-lg);">
@@ -101,7 +101,7 @@ permalink: /terms/
     <h2>4. User Content</h2>
 
     <h3 style="margin-top: var(--spacing-lg);">Your Data</h3>
-    <p>You retain all rights to the time tracking data, categories, reports, and other content you create using TimeKit ("Your Data").</p>
+    <p>You retain all rights to the time tracking data, categories, reports, and other content you create using Workbill ("Your Data").</p>
 
     <h3 style="margin-top: var(--spacing-lg);">Data Storage</h3>
     <ul style="margin-left: var(--spacing-lg);">
@@ -113,7 +113,7 @@ permalink: /terms/
     </ul>
 
     <h3 style="margin-top: var(--spacing-lg);">Appropriate Use</h3>
-    <p>You agree to use TimeKit for legitimate time tracking purposes:</p>
+    <p>You agree to use Workbill for legitimate time tracking purposes:</p>
     <ul style="margin-left: var(--spacing-lg);">
       <li>Track time honestly and accurately</li>
       <li>Do not use the app for fraudulent billing or time theft</li>
@@ -141,19 +141,19 @@ permalink: /terms/
 
     <h3 style="margin-top: var(--spacing-lg);">Accuracy of Time Tracking</h3>
     <p style="background: #FFF3CD; padding: 1rem; border-left: 4px solid #FF9500; border-radius: var(--radius-sm); margin: var(--spacing-lg) 0;">
-      <strong>⚠️ Important:</strong> TimeKit is a time tracking tool that relies on you to start and stop timers accurately. While we strive for accuracy, we cannot guarantee perfect time tracking in all circumstances (e.g., app crashes, device restarts, background limitations). Always review your time entries before billing clients or submitting timesheets.
+      <strong>⚠️ Important:</strong> Workbill is a time tracking tool that relies on you to start and stop timers accurately. While we strive for accuracy, we cannot guarantee perfect time tracking in all circumstances (e.g., app crashes, device restarts, background limitations). Always review your time entries before billing clients or submitting timesheets.
     </p>
 
     <h3 style="margin-top: var(--spacing-lg);">Not Legal or Financial Advice</h3>
     <ul style="margin-left: var(--spacing-lg);">
-      <li>TimeKit provides time tracking tools, not legal or financial advice</li>
+      <li>Workbill provides time tracking tools, not legal or financial advice</li>
       <li>Consult with qualified professionals for tax, billing, or employment law questions</li>
       <li>We are not responsible for billing disputes or employment issues</li>
       <li>You are responsible for complying with applicable laws and regulations</li>
     </ul>
 
     <h3 style="margin-top: var(--spacing-lg);">Service Availability</h3>
-    <p>We strive to keep TimeKit available 24/7, but we do not guarantee uninterrupted service. We may:</p>
+    <p>We strive to keep Workbill available 24/7, but we do not guarantee uninterrupted service. We may:</p>
     <ul style="margin-left: var(--spacing-lg);">
       <li>Perform maintenance or updates</li>
       <li>Experience technical difficulties</li>
@@ -165,7 +165,7 @@ permalink: /terms/
     <h2>7. Limitation of Liability</h2>
     <p>TO THE MAXIMUM EXTENT PERMITTED BY LAW:</p>
     <ul style="margin-left: var(--spacing-lg);">
-      <li>TimeKit is provided "AS IS" without warranties of any kind</li>
+      <li>Workbill is provided "AS IS" without warranties of any kind</li>
       <li>We are not liable for any indirect, incidental, special, or consequential damages</li>
       <li>Our total liability shall not exceed the amount you paid for Premium subscriptions in the last 12 months</li>
       <li>We are not responsible for data loss (back up your device regularly)</li>
@@ -176,11 +176,11 @@ permalink: /terms/
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>8. Intellectual Property</h2>
-    <p>TimeKit, including its design, features, code, and content, is protected by copyright, trademark, and other intellectual property laws.</p>
+    <p>Workbill, including its design, features, code, and content, is protected by copyright, trademark, and other intellectual property laws.</p>
     <ul style="margin-left: var(--spacing-lg);">
-      <li>All rights reserved by TimeKit Team</li>
+      <li>All rights reserved by Workbill Team</li>
       <li>You may not copy, modify, or distribute the App</li>
-      <li>The TimeKit name and logo are trademarks</li>
+      <li>The Workbill name and logo are trademarks</li>
       <li>Third-party services (Apple) have their own terms</li>
     </ul>
   </div>
@@ -189,7 +189,7 @@ permalink: /terms/
     <h2>9. Third-Party Services</h2>
 
     <h3 style="margin-top: var(--spacing-lg);">Apple Services</h3>
-    <p>TimeKit uses Apple services including:</p>
+    <p>Workbill uses Apple services including:</p>
     <ul style="margin-left: var(--spacing-lg);">
       <li>App Store (app distribution, subscriptions)</li>
       <li>iCloud (optional data sync)</li>
@@ -205,7 +205,7 @@ permalink: /terms/
     <h2>10. Termination</h2>
 
     <h3 style="margin-top: var(--spacing-lg);">By You</h3>
-    <p>You can stop using TimeKit anytime by:</p>
+    <p>You can stop using Workbill anytime by:</p>
     <ul style="margin-left: var(--spacing-lg);">
       <li>Deleting the App from your device</li>
       <li>Canceling your Premium subscription in iOS Settings</li>
@@ -242,15 +242,15 @@ permalink: /terms/
     <p>If you have questions about these Terms, please contact us:</p>
     <p style="margin-top: var(--spacing-lg);">
       <strong>Email:</strong> <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a><br>
-      <strong>Support:</strong> <a href="{{ '/support' | relative_url }}" style="color: #2DBAA6;">TimeKit Support Page</a>
+      <strong>Support:</strong> <a href="{{ '/support' | relative_url }}" style="color: #2DBAA6;">Workbill Support Page</a>
     </p>
   </div>
 
   <div style="text-align: center; padding: var(--spacing-2xl); background: var(--color-bg-secondary); border-radius: var(--radius-lg);">
-    <p style="font-size: 0.9rem; color: var(--color-text-secondary); margin-bottom: var(--spacing-lg);">By using TimeKit, you acknowledge that you have read and understood these Terms of Service and our <a href="{{ '/privacy-policy' | relative_url }}" style="color: #2DBAA6;">Privacy Policy</a>.</p>
+    <p style="font-size: 0.9rem; color: var(--color-text-secondary); margin-bottom: var(--spacing-lg);">By using Workbill, you acknowledge that you have read and understood these Terms of Service and our <a href="{{ '/privacy-policy' | relative_url }}" style="color: #2DBAA6;">Privacy Policy</a>.</p>
     <a href="{{ site.appstore_link | default: '#' }}" class="btn btn-primary">
       <i class="fab fa-apple"></i>
-      Download TimeKit
+      Download Workbill
     </a>
   </div>
 </div>
