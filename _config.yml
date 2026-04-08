@@ -48,6 +48,8 @@ features:
 # Remove all custom theme settings and revert to default minima theme
 
 # GitHub Pages settings
+# This repo contains Workbill site content. The production root-domain pages are
+# served from the separate gautam-u.github.io repository under /workbill/.
 baseurl: "/timekit-website"
 url: "https://gautam-u.github.io"
 

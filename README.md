@@ -1,10 +1,12 @@
-# TimeKit Website
+# Workbill Website
 
-Official marketing website for TimeKit - Professional Time Tracking for Freelancers.
+Marketing site content for Workbill.
 
 ## Overview
 
-This is a Jekyll-based static website hosted on GitHub Pages. It provides information about TimeKit, pricing, features, privacy policy, and terms of service.
+This repository contains Jekyll-based marketing content for Workbill, including the homepage copy, support page, privacy policy, and terms of service.
+
+The actual root domain used for universal links and App Store event links is published from the separate `gautam-u.github.io` repository under `/workbill/`.
 
 ## Structure
 
@@ -55,9 +57,9 @@ bundle exec jekyll serve
 
 ## Deployment
 
-This website is automatically deployed to GitHub Pages when changes are pushed to the main branch.
+This repository can still build as a project site, but the production Workbill website and universal-link pages now live at:
 
-**Live URL**: https://gautam-u.github.io/timekit-website/
+**Live URL**: https://gautam-u.github.io/workbill/
 
 ## Content Updates
 
@@ -88,4 +90,4 @@ For website issues or suggestions, contact:
 
 ---
 
-**TimeKit** - Track time. Build your kit.
+**Workbill** - Track time. Send invoices. Get paid.
