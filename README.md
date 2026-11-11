@@ -85,7 +85,7 @@ Update `appstore_link` in `_config.yml` when app is published.
 ## Contact
 
 For website issues or suggestions, contact:
-- Email: support@timekitapp.com
+- Feedback: the App Store review page (there is no support mailbox)
 - GitHub: @gautam-u
 
 ---

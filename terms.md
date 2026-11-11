@@ -239,9 +239,9 @@ permalink: /terms/
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>13. Contact Information</h2>
-    <p>If you have questions about these Terms, please contact us:</p>
+    <p>If you have questions about these Terms, use the App Store review page:</p>
     <p style="margin-top: var(--spacing-lg);">
-      <strong>Email:</strong> <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a><br>
+      <strong>Feedback:</strong> <a href="https://apps.apple.com/app/id6755194362?action=write-review" style="color: #2DBAA6;">Write an App Store review</a>. Reviews are public.<br>
       <strong>Support:</strong> <a href="{{ '/support' | relative_url }}" style="color: #2DBAA6;">Workbill Support Page</a>
     </p>
   </div>

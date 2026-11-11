@@ -12,10 +12,10 @@ permalink: /support/
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
-    <h2>📧 Contact Us</h2>
+    <h2>Feedback</h2>
     <p>Need help? Have a question? We're here to assist you.</p>
     <p style="margin-top: var(--spacing-lg);">
-      <strong>Email:</strong> <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a><br>
+      <strong>Feedback:</strong> <a href="https://apps.apple.com/app/id6755194362?action=write-review" style="color: #2DBAA6;">Write an App Store review</a>. Reviews are public.<br>
       <strong>Response Time:</strong> Within 24 hours (usually faster!)
     </p>
   </div>
@@ -95,7 +95,7 @@ permalink: /support/
 
     <details style="margin-bottom: var(--spacing-md);">
       <summary style="cursor: pointer; font-weight: 600; padding: var(--spacing-sm); background: var(--color-bg-secondary); border-radius: var(--radius-sm);">My purchase didn't restore</summary>
-      <p style="padding: var(--spacing-md);">Make sure you're signed into the same Apple ID used to purchase Premium. Try: Open Workbill → Settings → Restore Purchases. If issues persist, email us at support@timekitapp.com.</p>
+      <p style="padding: var(--spacing-md);">Make sure you're signed into the same Apple ID used to purchase Premium. Try: Open Workbill → Settings → Restore Purchases. If issues persist, use Apple's Report a Problem page (reportaproblem.apple.com).</p>
     </details>
 
     <details style="margin-bottom: var(--spacing-md);">
@@ -107,7 +107,7 @@ permalink: /support/
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>🐛 Report a Bug</h2>
     <p>Found a bug? Help us improve Workbill by reporting it!</p>
-    <p style="margin-top: var(--spacing-lg);">Email us at <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a> with:</p>
+    <p style="margin-top: var(--spacing-lg);">We do not run a support mailbox. To report a problem, <a href="https://apps.apple.com/app/id6755194362?action=write-review" style="color: #2DBAA6;">write an App Store review</a> (reviews are public, so leave out anything private) with:</p>
     <ul style="margin-left: var(--spacing-lg);">
       <li>Description of the issue</li>
       <li>Steps to reproduce the bug</li>
@@ -120,7 +120,7 @@ permalink: /support/
   <div class="card" style="margin-bottom: var(--spacing-2xl);">
     <h2>💡 Feature Requests</h2>
     <p>Have an idea for Workbill? We'd love to hear it!</p>
-    <p style="margin-top: var(--spacing-lg);">Send feature requests to <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a></p>
+    <p style="margin-top: var(--spacing-lg);">To request a feature, <a href="https://apps.apple.com/app/id6755194362?action=write-review" style="color: #2DBAA6;">write an App Store review</a></p>
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-4xl);">
@@ -134,7 +134,7 @@ permalink: /support/
 
   <div style="text-align: center; padding: var(--spacing-2xl); background: var(--color-bg-secondary); border-radius: var(--radius-lg);">
     <h3>Still need help?</h3>
-    <p style="margin-bottom: var(--spacing-lg);">Contact us anytime at <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a></p>
+    <p style="margin-bottom: var(--spacing-lg);">To reach us, <a href="https://apps.apple.com/app/id6755194362?action=write-review" style="color: #2DBAA6;">write an App Store review</a></p>
     <p style="font-size: 0.9rem; color: var(--color-text-secondary);">We typically respond within 24 hours</p>
   </div>
 </div>
