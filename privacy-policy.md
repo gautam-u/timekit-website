@@ -79,7 +79,7 @@ permalink: /privacy-policy/
     <div class="grid grid-2" style="margin-top: var(--spacing-lg);">
       <div>
         <h4 style="color: #FF3B30;">❌ Personal Information</h4>
-        <p style="margin-bottom: var(--spacing-lg);">No names, emails, or contact information unless you voluntarily contact us for support.</p>
+        <p style="margin-bottom: var(--spacing-lg);">No names, emails, or contact information. There is no support mailbox.</p>
 
         <h4 style="color: #FF3B30;">❌ Tracking Across Apps</h4>
         <p style="margin-bottom: 0;">We don't track your behavior across other apps or websites.</p>
@@ -164,10 +164,10 @@ permalink: /privacy-policy/
   </div>
 
   <div class="card" style="margin-bottom: var(--spacing-4xl);">
-    <h2>Contact Us</h2>
-    <p>If you have any questions about this privacy policy, please contact us:</p>
+    <h2>Questions</h2>
+    <p>If you have any questions about this privacy policy, use the App Store review page:</p>
     <p style="margin-top: var(--spacing-lg);">
-      <strong>Email:</strong> <a href="mailto:support@timekitapp.com" style="color: #2DBAA6;">support@timekitapp.com</a><br>
+      <strong>Feedback:</strong> <a href="https://apps.apple.com/app/id6755194362?action=write-review" style="color: #2DBAA6;">Write an App Store review</a>. Reviews are public.<br>
       <strong>Support:</strong> <a href="{{ '/support' | relative_url }}" style="color: #2DBAA6;">Workbill Support Page</a>
     </p>
   </div>
